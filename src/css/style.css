@@ -14,6 +14,13 @@ background-repeat: no-repeat;
     right: 10px;
   }
 
+  .github-logo {
+    width: 61px;
+    position: absolute;
+    top: 55px;
+    right: 10px;
+  }
+
 .topo {
     display: flex;
     justify-content: center;
