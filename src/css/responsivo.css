@@ -3,6 +3,10 @@
         font-size: 12px;
     }
 
+    .scroll {
+        overflow: visible;
+    }
+
     .pokedex {
         flex-direction: column;
         padding: 30px 0;
