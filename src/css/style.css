@@ -1,10 +1,10 @@
 .back {
-margin-top: -60px;
+margin-top: -55px;
 background-image: url(../imagens-style/pokeball-planetx-wallpaper.png);
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
-
+padding-bottom: 10px;
 }
 
 .linkedin-logo {
